@@ -1,8 +1,0 @@
-#fasaas
-
-[postgres]
-host = "localhost"
-port = 5432
-dbname = "stage_pesq"
-user = "postgres"
-password = "postgres"
